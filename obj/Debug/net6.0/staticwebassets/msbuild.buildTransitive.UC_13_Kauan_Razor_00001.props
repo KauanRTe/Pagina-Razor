@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UC_13_Kauan_Razor_00001.props" />
+</Project>
